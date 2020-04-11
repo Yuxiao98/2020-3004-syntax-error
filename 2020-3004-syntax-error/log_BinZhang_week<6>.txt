@@ -1,0 +1,2 @@
+In week6, I finished the UI pages in my part include "filter page", "available fields" and "field details".
+Next step is hook up the code with other team members.

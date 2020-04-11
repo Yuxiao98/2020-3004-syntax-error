@@ -1,0 +1,5 @@
+For this week, I did some draft UI of the app
+
+Including user profile, calendar and place list and place information
+
+And we had discussions to specify and make improvements to the UI draft

@@ -1,0 +1,1 @@
+In Week1, I discussed the idea about our group project, and I have written the proposal includes description, functional properties, scenarios and non-functional properties.

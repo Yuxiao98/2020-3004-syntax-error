@@ -1,0 +1,1 @@
+In Week9, I finished my part which are client and server architecture style and the diagram, and was ready to deliver the D3.

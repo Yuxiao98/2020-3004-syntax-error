@@ -1,0 +1,1 @@
+Prepared presentition, started to install and look at flutter tutorial and firebase.

@@ -1,0 +1,1 @@
+For this week, I started to make real user interfaces in Android Studio

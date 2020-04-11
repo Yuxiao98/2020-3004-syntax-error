@@ -1,0 +1,4 @@
+For this week, I linked the Create a Team page with Timetable and have done
+Some modifications. Created a Team List page where users can see their joined teams
+And a page of Team members where users can see members in the team. Both pages are
+Linked with other pages.

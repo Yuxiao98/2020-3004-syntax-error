@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "345977304645",
+    "firebase_url": "https://sports-fields-rental-50730.firebaseio.com",
+    "project_id": "sports-fields-rental-50730",
+    "storage_bucket": "sports-fields-rental-50730.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345977304645:android:80d115a989ae9b54e7952c",
+        "android_client_info": {
+          "package_name": "com.example.sports_fields_rental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345977304645-hefl6gah5g06pug5h55oj5t23s06i7cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEFcEfZm7pSmZIuFQMWAK_xDOacYpUcSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345977304645-hefl6gah5g06pug5h55oj5t23s06i7cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,3 @@
+For this week, I created the Calendar page and linked it with two other pages. I also
+Made some modifications after connecting to the database. And finished the description
+Part of Deliverable 4 with Bin Zhang as well as screen-record.

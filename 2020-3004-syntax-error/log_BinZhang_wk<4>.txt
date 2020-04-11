@@ -1,0 +1,1 @@
+In week4, we have discussed and finished the UML diagram, talked about all the UI design. In this week, I started to implement some of the class in UML diagram.
